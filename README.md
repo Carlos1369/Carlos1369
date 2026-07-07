@@ -1,89 +1,92 @@
 
-## 🚀 About Me
-<h1 align="center">¡Hola! 👋 Soy Carlos Guadalupe Gil Alfaro</h1>
+<h1 align="center">Hola 👋, soy Carlos Guadalupe Gil Alfaro</h1>
 
-<h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador Fullstack<full/h3>
+<h3 align="center">
+Full Stack Developer | PHP • Laravel • Vue.js • MySQL
+</h3>
 
 <p align="center">
-Apasionado por el desarrollo de aplicaciones web utilizando PHP, Laravel y MySQL.<br>
-Me gusta aprender nuevas tecnologías y desarrollar soluciones que aporten valor.
+Desarrollador Full Stack apasionado por crear aplicaciones web modernas, escalables y de alto rendimiento.
+<br>
+Me especializo en el desarrollo con Laravel, PHP, Vue.js, JavaScript y MySQL, aplicando buenas prácticas y arquitectura MVC.
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Ingeniero en Sistemas Computacionales egresado del TecNM Campus Culiacán.
+🎓 Ingeniero en Sistemas Computacionales egresado del Tecnológico Nacional de México, Campus Culiacán.
 
-💼 Durante mis Residencias Profesionales desarrollé una plataforma integral de Recursos Humanos utilizando **PHP, Laravel y MySQL**.
+💼 Durante mis Residencias Profesionales desarrollé una plataforma integral de Recursos Humanos para optimizar la comunicación interna y el control de asistencia del personal.
 
-🚀 Interesado en el desarrollo Backend, APIs REST y bases de datos.
+🚀 Me interesa el desarrollo Full Stack, el diseño de APIs REST, las bases de datos y la construcción de aplicaciones web que aporten soluciones reales.
 
 📍 Culiacán, Sinaloa, México
 
 ---
 
-## 🚀 Tecnologías
+## 🛠️ Tecnologías
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,html,css,js,vue,nodejs,vite,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,mysql,nodejs,vite,java,git,github,vscode,postman" />
 
 </p>
 
 ---
 
-## 📂 Proyectos
+## 🚀 Proyectos Destacados
 
 ### 🏢 Plataforma de Recursos Humanos
 
-Sistema desarrollado durante mis Residencias Profesionales.
+**Tecnologías**
 
-✔ Gestión de empleados
+Laravel • PHP • MySQL • JavaScript • MVC
 
-✔ Control de asistencia
+**Funciones**
 
-✔ Comunicación interna
-
-✔ Laravel
-
-✔ PHP
-
-✔ MySQL
+- Gestión de empleados
+- Control de asistencia
+- Comunicación interna
+- Autenticación de usuarios
+- APIs REST
+- Base de datos MySQL
 
 ---
 
 ### 📦 Sistema de Gestión de Inventario
 
-Aplicación web desarrollada con Laravel y Vue.js.
+**Tecnologías**
 
-✔ CRUD de productos
+Laravel • Vue.js • MySQL • REST API
 
-✔ Categorías
+**Funciones**
 
-✔ API REST
-
-✔ Control de inventario
+- CRUD de productos
+- Gestión de categorías
+- Control de inventario
+- Consumo de APIs REST
+- Integración Frontend y Backend
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 🌱 Actualmente aprendiendo
 
-- Arquitectura MVC
-- APIs REST
+- Arquitectura de Software
 - Clean Code
-- Laravel Avanzado
-- Node.js
+- Diseño de APIs REST
+- Docker
+- TypeScript
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos1369&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos1369&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos1369&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos1369&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -93,24 +96,26 @@ Aplicación web desarrollada con Laravel y Vue.js.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Carlos1369&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Carlos1369&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌎 Contacto
+## 📫 Contacto
 
-📧 **Correo:** carlosgpegilalfaro@gmail.com
+📧 **Correo:** <a href="mailto:carlosgpegilalfaro@gmail.com">carlosgpegilalfaro@gmail.com</a>
 
-💼 **LinkedIn:** https://linkedin.com/in/carlos-guadalupe-gil-alfaro-074752366
+💼 **LinkedIn:** <a href="https://linkedin.com/in/carlos-guadalupe-gil-alfaro-074752366" target="_blank">Carlos Guadalupe Gil Alfaro</a>
 
-🐙 **GitHub:** https://github.com/Carlos1369
+🐙 **GitHub:** <a href="https://github.com/Carlos1369" target="_blank">Carlos1369</a>
 
 ---
 
-<p align="center">
+<div align="center">
 
-Gracias por visitar mi perfil 😄
+### 💡 "Siempre aprendiendo, siempre construyendo."
 
-</p>
+Gracias por visitar mi perfil.
+
+</div>
